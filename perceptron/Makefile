@@ -1,6 +1,6 @@
-EXE := test
-OBJ := test.o
-SRC := test.cu
+EXE := perceptron
+OBJ := perceptron.o
+SRC := perceptron.cu
 
 GCCFLAGS := #--compiler-bindir /opt/gcc34/
 

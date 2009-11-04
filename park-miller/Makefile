@@ -1,6 +1,6 @@
-EXE := test
-OBJ := test.o
-SRC := test.cu
+EXE := park-miller
+OBJ := park-miller.o
+SRC := park-miller.cu
 
 GCCFLAGS := #--compiler-bindir /opt/gcc34/
 
